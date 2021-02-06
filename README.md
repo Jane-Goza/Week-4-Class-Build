@@ -4,7 +4,7 @@ MMED-1054 Week 4 Class build
 # MIT License
 MIT License
 
-Copyright (c) 2021 Issakhanova Gaukhar
+Copyright (c) 2021 Issakhanova Gaukhar and Emre Usun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
